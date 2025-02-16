@@ -1,0 +1,8 @@
+# ignore files
+accounts.txt
+bin/
+bms.cbp
+bms.layout
+main.exe
+main.o
+obj/
